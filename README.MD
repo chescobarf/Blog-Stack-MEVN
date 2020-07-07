@@ -10,7 +10,6 @@ Validator          ---> para validar datos.
 
 NodeMon            ---> dependencia de desarrollo para habilitar el demonio que este haciendo el actualizar el servidor
 
-
+# Para dar inicio al servidor
 ```bash
 npm start 
-#Para dar inicio al servidor
